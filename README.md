@@ -79,8 +79,8 @@ Google Colab (Python, pandas) · SQLite + JupySQL · Tableau Public · Excel
 
 - `leafs_analysis.ipynb`: SQL analysis notebook
 - `dashboard.png`: dashboard screenshot
-- `data/leafs_games.csv`: Leafs game-by-game team data, both seasons
-- `data/leafs_goalies.csv`: Leafs goalies, both seasons
+- `leafs_games.csv`: Leafs game-by-game team data, both seasons
+- `leafs_goalies.csv`: Leafs goalies, both seasons
 
 ## Sources
 
